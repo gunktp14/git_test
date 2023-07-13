@@ -1,1 +1,4 @@
- console.log('Hello js')
+ const num = 1;
+ 
+ console.log('Hello js modifiled');
+ 
